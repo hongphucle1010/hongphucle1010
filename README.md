@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hồng Phúc Lê</h1>
-<h3 align="center">Sinh viên năm ba chương trình cử nhân tài năng Trường Đại học Bách Khoa TP.HCM</h3>
-<h3 align="center">Third-year honors program student at Ho Chi Minh University of Technology (HCMUT)</h3>
+<h3 align="center">Sinh viên năm tư chương trình cử nhân tài năng Trường Đại học Bách Khoa TP.HCM</h3>
+<h3 align="center">Fourth-year honors program student at Ho Chi Minh University of Technology (HCMUT)</h3>
 
 ---
 
